@@ -18,7 +18,7 @@ public class MyController implements Initializable {
 	
 	@FXML
 	private VBox buttonVBox;
-	
+
 	@FXML
 	private BorderPane root;
     @FXML
@@ -27,21 +27,21 @@ public class MyController implements Initializable {
     private Button button2;
     @FXML
     private TextField centerText;
-    
+
     @FXML
     private TextField rightText;
 
 
-    
-    //static so each instance of controller can access to update 
+
+    //static so each instance of controller can access to update
     private static String textEntered = "";
 	private static String textMessage = "";
-	
+
 
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
 		// TODO Auto-generated method stub
-        
+
 	}
 
     public void b1Method(ActionEvent e) throws IOException{

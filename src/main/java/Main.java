@@ -14,10 +14,10 @@ public class Main extends Application {
 		 try {
 	            // Read file fxml and draw interface.
 	            Parent root = FXMLLoader.load(getClass()
-	                    .getResource("/FXML/Myfxml.fxml"));
+	                    .getResource("/FXML/mainScene.fxml"));
 
 	            primaryStage.setTitle("Hey-Borhood App");
-             	Scene s1 = new Scene(root, 700,700);
+             	Scene s1 = new Scene(root, 255, 456);
              	s1.getStylesheets().add("/styles/style1.css");
 	            primaryStage.setScene(s1);
 	            primaryStage.show();

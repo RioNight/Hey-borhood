@@ -1,9 +1,23 @@
-.button{
+.button {
 	-fx-font-size: 14px;
 	-fx-font-weight: bold;
 	-fx-background-color: #a8a8f3;
 	-fx-font-family: Arial;
+
+	-fx-background-radius: 5;
+	-fx-border-radius: 5;
 }
+
+#createAccountBtn {
+	-fx-border-color: #FFD1DC;
+	-fx-background-color: #FFA2B9;
+}
+
+#loginBtn {
+	-fx-background-color: #FFF1F4;
+	-fx-border-color: #FFD1DC;
+}
+
 .text-field{
 	-fx-font-family: Arial;
 
@@ -11,7 +25,6 @@
 
 .vbox{
 	-fx-background-color: #a7ceb0;
-
 }
 
 
