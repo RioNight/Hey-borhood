@@ -1,5 +1,16 @@
 Hack for Social Good
 
+Directions for Use:
+This app must be run in a Java-compatible environment. We coded this using the IntelliJ IDE using Java, Maven, and FXML. 
+To run the app, enter the directory the code is in, and run:
+1) mvn clean compile
+2) mvn exec:java
+When the app runs, you will see the landing page called Hey-borhood.
+3) Click on the "Create Account" button to be taken to the preferences page.
+4) Click anywhere on the page to be taken to the "Start Chatting" screen
+5) Click anywhere again to see a map of recommended "hey-bors" to start chatting with
+6) Click anywhere to be taken to an example chatting screen showing how messaging a hey-bor can look like
+
 Project Issue:
 Loneliness is a major cause for depression among elderlies and is associated with increased risks of depression, heart disease, weakened immune system, dementia, and early death. 
 
