@@ -17,7 +17,7 @@ public class Main extends Application {
 	                    .getResource("/FXML/mainScene.fxml"));
 
 	            primaryStage.setTitle("Hey-Borhood App");
-             	Scene s1 = new Scene(root, 255, 456);
+             	Scene s1 = new Scene(root, 350, 600);
              	s1.getStylesheets().add("/styles/style1.css");
 	            primaryStage.setScene(s1);
 	            primaryStage.show();
