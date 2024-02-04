@@ -11,6 +11,8 @@ When the app runs, you will see the landing page called Hey-borhood.
 5) Click anywhere again to see a map of recommended "hey-bor" volunteer to start chatting with
 6) Click anywhere to be taken to an example chatting screen showing how messaging a "hey-bor" volunteer can look like
 
+App Demo: https://www.youtube.com/watch?v=BdRraRwV5EY
+
 Project Issue:
 Loneliness is a major cause for depression among elderlies and is associated with increased risks of depression, heart disease, weakened immune system, dementia, and early death. 
 
